@@ -1,5 +1,5 @@
-# gcc coverage testing tool files
+# OS
+.DS_Store
 
-*.gcno
-*.gcda
-*.gcov
+# dependencies
+/node_modules
